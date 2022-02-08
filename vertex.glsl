@@ -1,4 +1,4 @@
-varying vec3 normal;
+varying vec3 lightdir, normal, pos;
 varying vec4 world_position;
 
 void main()
